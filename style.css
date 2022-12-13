@@ -1,0 +1,15 @@
+.Plano1, .Plano2, .Plano3{
+    position: absolute;
+    z-index: -1;
+    top: 10%;
+    right: 10px;
+   width: 100%;
+   opacity: 60%;
+   height: auto;
+}
+
+.bk{
+    width: 100vw;
+    height: auto;
+}
+
